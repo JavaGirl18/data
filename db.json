@@ -1,5 +1,4 @@
-{
-    "appointments": [
+ [
     
     {
         "id": 0,
@@ -65,4 +64,4 @@
         "set": false 
        }
     ]
-}
+
